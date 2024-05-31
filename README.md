@@ -32,7 +32,7 @@ This repository contains machine learning projects completed as part of the Mach
 - **Algorithm:** Recurrent Neural Network (RNN)
 - **Library:** Keras, Pandas, Numpy
 - **Key Features:**
-  - Built an RNN model to process and classify text data.
+  - Built an RNN model to process and classify text data to a 98% accuracy rate.
   - Employed LSTM layers to capture long-term dependencies in the text.
   - Preprocessed SMS messages with tokenization and padding to handle varying lengths.
 
