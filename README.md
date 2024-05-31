@@ -17,7 +17,6 @@ This repository contains machine learning projects completed as part of the Mach
   - Preprocessed data to handle missing values and categorical variables using Pandas and Numpy.
   - Evaluated model performance using mean absolute error (MAE), ensuring a MAE less than $3500
   - was always generated. My model averages an MSE of $2800.
-  -
 ### 2. Book Recommendation Algorithm
 - **Description:** A recommendation system to suggest similar books to a user based on similarity in review
   patterns among users.
